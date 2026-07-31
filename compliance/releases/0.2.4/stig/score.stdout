@@ -1,0 +1,19 @@
+{
+  "pass": 67,
+  "fail": 3,
+  "other": 0,
+  "total_scored": 70,
+  "score": 95.71,
+  "min_score": 90.0,
+  "meets_floor": true,
+  "gate_pass": true,
+  "enforce": false,
+  "failures": [
+    "ensure_redhat_gpgkey_installed",
+    "file_permissions_ungroupowned",
+    "network_configure_name_resolution"
+  ],
+  "regressions": [],
+  "baseline": null,
+  "openscap_line": "OpenSCAP: pass=67 fail=3 score=95.7% (target 90%)"
+}
