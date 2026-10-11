@@ -50,7 +50,6 @@ cs10stig_aide_scan_notification: true
 cs10stig_aide_use_fips_hashes: true
 cs10stig_aide_verify_acls: true
 cs10stig_aide_verify_ext_attributes: true
-cs10stig_always: true
 cs10stig_audit_privileged_commands_init: true
 cs10stig_audit_privileged_commands_poweroff: true
 cs10stig_audit_privileged_commands_reboot: true
