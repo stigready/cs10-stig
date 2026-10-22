@@ -1,0 +1,9 @@
+{
+  "role": "cs10_stig",
+  "version": "0.3.48",
+  "matrix_status": "green",
+  "factory_commit": "055cf3a4a0bb0069f7b8dfc298fc7075514fb561",
+  "content_digest": "e2e7ac3a067b3079ffbb5d6d3a74b333d94f7e5d5b0c21cbc8a459d8bcad0cd3",
+  "container_verify": "removed-0017",
+  "compliance_evidence": "Not produced here. Container verify was removed because a container cannot evaluate most STIG rules; compliance evidence for this role comes from the StigReady AMI build that consumes it."
+}
